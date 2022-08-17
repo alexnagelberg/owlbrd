@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "tmc2209_silentstepstick")(type "KiCad")(uri "${KIPRJMOD}/libraries/tmc2209_silentstepstick.kicad_sym")(options "")(descr ""))
+)
