@@ -1,0 +1,19 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.uf2
+*.stl
+*.gcode
+*.asm
+CAD Files/AFR_300_8X/Native/AFR_300_8X.cfg
+*.asm
+*.cfg
+*.par
+*.cfg
+*.par
